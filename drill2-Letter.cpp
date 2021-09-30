@@ -1,7 +1,8 @@
 #include "std_lib_facilities.h"
 
 int main()
-{   char friend_sex; //your and your letter friend's mutal friend's sex
+{   
+    char friend_sex; //your and your letter friend's mutal friend's sex
     string letter_friend;// your letter friends's name (Who are you messaging?)
     string friend_name;//your and your letter friend's mutal friend's name
     int letter_friend_age;// your letter friends's age
